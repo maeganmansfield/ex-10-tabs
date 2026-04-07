@@ -10,8 +10,8 @@ code{
     background-color: #101D42;
     border-radius: 8px;
     padding: 4px;
-    font-family: "mandevilla", sans-serif;
-    font-weight: 700;
+    font-family: "tarzana-narrow", sans-serif;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -31,8 +31,8 @@ code{
 .site-links{list-style-type: none;
     display: flex;
     justify-content: space-evenly;
-    font-family: "mandevilla", sans-serif;
-    font-weight: 700;
+    font-family: "tarzana-narrow", sans-serif;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -59,8 +59,8 @@ code{
     background-color: #7D80DA;
     padding: 12px; 
     border-radius: 0 0 10px 10px;
-    font-family: "mandevilla", sans-serif;
-    font-weight: 700;
+    font-family: "tarzana-narrow", sans-serif;
+    font-weight: 400;
     font-style: normal;
 }
 
